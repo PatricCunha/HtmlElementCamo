@@ -1,0 +1,19 @@
+.voxel {
+  display: block;
+  float: left;
+  width: 10px;
+  height: 10px;
+}
+
+.path {
+  background-color: #B299F2;
+}
+
+.wall {
+  background-color: #BDBDBD;
+}
+
+.map {
+  width: 800px;
+  height: 600px;
+}
